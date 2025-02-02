@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATISH SP</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **BIT COIN**
+- 🔭 I’m currently working on **online job portal**
 
 - 🌱 I’m currently learning **java script**
 
